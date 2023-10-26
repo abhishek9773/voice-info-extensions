@@ -1,0 +1,72 @@
+button#mybtn{
+    position: fixed;
+    bottom: 120px;
+    right: 20px;
+    z-index :1000;
+
+    height:40px;
+    width:40px;
+    background-color:aquamarine;
+    
+    border:2px solid black;
+    border-radius: 30px;
+
+    animation-name : stretch;
+    animation-duration:5s;
+    animation-timing-function: linear;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+    animation-play-state: running;
+
+    
+}
+
+#mybtn:hover{
+    transform: scale(1.1);
+    background-color: blue;
+    border-color:yellowgreen;
+    animation-name: none;
+    cursor:pointer;
+}
+
+#mybtn[listening] {
+    animation-name: fast-stretch;
+    animation-duration:0.2s;
+    animation-timing-function: linear;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+    animation-play-state : running;
+}
+
+@keyframes stretch{
+    0%{
+        background-color: aqua;
+        border-color: black;
+        transform: scale(1);
+
+    }
+    90%{
+        background-color:turquoise;
+        border-color: black;
+        transfrom:scale(1);
+    }
+    100%{
+        background-color:turquoise;
+        border-color:gray;
+        transfrom:scale(1.5);
+    } 
+
+}
+@keyframes fast-stretch{
+    0%{
+        background-color:turquoise;
+        border-color:black;
+        transform:scale(1);
+    }
+    100%{
+        background-color:teal;
+        border-color:gray;
+        transform:scale(1.2);
+    }
+
+}

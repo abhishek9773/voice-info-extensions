@@ -21,7 +21,7 @@ while take are not finished
 
     Identify gaps in knowlage
     Identify resoruces to plug gaps in knowledge (chatGpt, google)
-    Learn from resources
+    Learn from resources (question)
 
     Update features list and tasks list
     want to redo current task or a new task in next cycle

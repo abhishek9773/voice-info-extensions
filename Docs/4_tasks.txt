@@ -1,4 +1,7 @@
 Show a button on all webside
-Start listining on button click an stop on bin click again. Display  transcript on console.(speechtotext api)
+Visiual cues of clickabilty on the button
+Start fack listening on bun click and stop fack listening on next click.
+visiual cues of listining on the button.
+Start listining on button click and stop on bin click again. Display  transcript on console.(speechtotext api)
 Display trascript on popup
 The btn clicks should also happen via a keyboard shortcut.

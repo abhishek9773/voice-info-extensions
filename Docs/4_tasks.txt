@@ -1,0 +1,4 @@
+Show a button on all webside
+Start listining on button click an stop on bin click again. Display  transcript on console.(speechtotext api)
+Display trascript on popup
+The btn clicks should also happen via a keyboard shortcut.

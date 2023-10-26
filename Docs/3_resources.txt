@@ -1,0 +1,15 @@
+Assumption => You know basic coding in any language
+Learn in absorbing state of mind not questioning state of mind
+Html = w3school ( 4 hours)
+CSS = w3school (4 hours)
+js = w3school (12 hours)
+
+
+Learning
+    Faith => Absorb lke a sponge
+    Rasoning => 
+
+
+Crome extension (Always preferf follow official resources)
+    https://developer.chrome.com/docs/extensions/mv3/getstarted/ => 4 hours
+

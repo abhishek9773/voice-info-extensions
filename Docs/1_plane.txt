@@ -1,0 +1,38 @@
+Dream different feartures you want in the project. Don't worry about feasibility.
+
+Faith and Expectation => Layring
+What?(1) How?(3) why?(2) => Layering
+
+
+Identify resources to lean for getting started
+Learn from resources. Keep it short. Prefer official.
+Think of a set of task to help you get started with the project
+
+while take are not finished
+    Identify task for current cycle of building 
+    Identify resources to learn for achieving the task (chatGpt , google, old resources) 
+    Learn from resources
+    
+    Make an attempt at building.
+
+    Identify gaps in knowlage
+    Identify resources to plug gaps in knowledge (chatGpt , google, old resoruces)
+    Learn from resources
+
+    Identify gaps in knowlage
+    Identify resoruces to plug gaps in knowledge (chatGpt, google)
+    Learn from resources
+
+    Update features list and tasks list
+    want to redo current task or a new task in next cycle
+
+Identify gaps in knowlage
+Rethink resources to plug gaps in knowledgek
+Learn form resources
+
+Showcase the project: video, Github, Deployed sofware
+    Make a video and showcase this project to the world.
+    Make a github repository
+
+Rethink projects that you will want to do.
+want to redo current project or a new project.

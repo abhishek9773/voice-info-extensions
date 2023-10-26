@@ -1,0 +1,24 @@
+Sould be available on all webside
+Should be invoked via a button, keyboard shortcut or voice command
+Should take input via a voice command or text ot know what to do 
+Should be able to handle non-precise input smartly
+Should be able to give the list of places, people, companies in the current web page
+
+List of people: should be able to give me the follwing for the list of people
+    A brief
+    images
+    latest news
+    linkdin, twitter and insta handle: should be able to follow them without  
+    winkipedia
+    google search
+
+List of places: should be able to give me the following for the list of place 
+    A brief
+    map 
+    images
+    latest news
+    winkipedia
+    google search
+
+Assess chatgpt, bing, bard, google, map, wikipedia form page itsefl 
+Create and download image using ai while staying on the page.

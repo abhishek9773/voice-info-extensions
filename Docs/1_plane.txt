@@ -36,3 +36,5 @@ Showcase the project: video, Github, Deployed sofware
 
 Rethink projects that you will want to do.
 want to redo current project or a new project.
+
+PLACED IMPLEMENT THIS
